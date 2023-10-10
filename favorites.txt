@@ -1,10 +1,9 @@
-Foods:
+
 Steak
 Pomegranates
 Watermelon
 Escargot
 
-Movies:
 Princess Bride
 Stranger Than Fiction
 Inglourious Basterds
